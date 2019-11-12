@@ -1,4 +1,4 @@
-# KPI-and-Analysis-of-Airbnb-User-Review-Text-Data-to-Optimize-Profits
+# KPI-and-Analysis-of-Airbnb-User-Reviews-to-Optimize-Profits
 By analysing the Airbnb user reviews the following statements were explored:
 	Value Proposition that Airbnb offers its customers (Hosts and Guests)
 	How does Airbnb make money? 
